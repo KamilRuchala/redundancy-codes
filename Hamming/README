@@ -1,0 +1,5 @@
+Trzeba doinstalowac:
+* numpy: sudo apt-get install python-numpy
+
+Fajne narzędzie do gita:
+*gitk: sudo apt-get install git-gui gitk
